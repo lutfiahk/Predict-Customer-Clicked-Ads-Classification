@@ -7,7 +7,9 @@
 
 A company in Indonesia wants to evaluate the effectiveness of their aired advertisement. This is important for understanding the advertisement's reach and attracting viewers.
 
-image.png
+<p align = "center">
+   <img src="https://github.com/lutfiahk/Predict-Customer-Clicked-Ads-Classification/assets/99700225/c4986fba-4e46-403e-ba25-756f9cb07a47" width="400" height="300"/>
+</p>
 
 <b>50%</b> of customers did not click on the provided advertisement.
 
@@ -21,9 +23,21 @@ We give solutions which identify customer's patterns and develop a machine learn
 
 <h2>Customers Overview</h2>
 
+<p align = "center">
+   <img src="https://github.com/lutfiahk/Predict-Customer-Clicked-Ads-Classification/assets/99700225/f31f40db-ee6f-470b-92f9-da67a5d7ae25" width="400" height="300"/>
+</p>
+
 It is known that customers who do not click on advertisements tend to be younger, while customers who click on advertisements tend to be older.
 
+<p align = "center">
+   <img src="https://github.com/lutfiahk/Predict-Customer-Clicked-Ads-Classification/assets/99700225/f31f40db-ee6f-470b-92f9-da67a5d7ae25" width="400" height="300"/>
+</p>
+
 It is known that customers who do not click on advertisements tend to spend a longer time on the site, while customers who click on advertisements tend to spend a shorter time on the site.
+
+<p align = "center">
+   <img src="https://github.com/lutfiahk/Predict-Customer-Clicked-Ads-Classification/assets/99700225/7459d5e3-21f9-4d3a-9cdd-d115b31ee9ba" width="400" height="300"/>
+</p>
 
 Same as the case of customer's daily internet usage, it is observed that customers who do not click on advertisements tend to have high daily internet usage, while customers who click on advertisements tend to have low daily internet usage.
 
